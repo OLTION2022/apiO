@@ -1,7 +1,11 @@
-[
-  {
-    "id": 1,
-    "firstName": "Web",
-    "lastName": "JavaScript"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
