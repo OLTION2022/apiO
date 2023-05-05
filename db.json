@@ -2,7 +2,8 @@
   "users": [
     {
       "id": 1,
-      "info": "JavaScript"
+      "first": "WEB",
+      "last": "JavaScript"
     }
     ]
 }
