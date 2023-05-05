@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "first": "WEB",
-      "last": "JavaScript"
+      "name": "WEB",
+      "info": "JavaScript"
     }
     ]
 }
