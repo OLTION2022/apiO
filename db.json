@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "FirstName": ""
+      "LastName": ""
+      "Address": ""
+      "City": ""
+      "State": ""
+      "Zip": ""
+      "Email": ""
+      "Phone": ""
+      "Birthday": ""
     }
   ],
   "profile": {
