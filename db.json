@@ -1,19 +1,7 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "FirstName": ""
-      "LastName": ""
-      "Address": ""
-      "City": ""
-      "State": ""
-      "Zip": ""
-      "Email": ""
-      "Phone": ""
-      "Birthday": ""
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "firstName": "Web",
+    "lastName": "JavaScript"
   }
-}
+]
