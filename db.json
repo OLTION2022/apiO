@@ -2,8 +2,7 @@
   "users": [
     {
       "id": 1,
-      "fname": "Bob",
-      "lname": "Skywalker"
+      "Info": "JavaScript",
     }
     ]
 }
